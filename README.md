@@ -42,5 +42,6 @@ Insert your own Platforminfo in config.plist
 - Handoff
 - HDMI video / audio
 
-## Disabled
+## Not Works
 - GTX1650 dGPU
+- Internl Camera
